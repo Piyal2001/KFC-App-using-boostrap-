@@ -1,0 +1,98 @@
+body{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+}
+#main{
+    background: url(./Background-Kfc-Background-Kindle-Pics.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 5rem;
+}
+.nav-item{
+    margin: 0 20px;
+}
+.header-main{
+    margin-top: 20px;
+}
+.header-info{
+    font-weight: 900;
+    font-size: 3.5rem;
+    color:#ffff;
+}
+.btn-outline-light{
+    margin: 5px;
+}
+.btn-outline-info{
+    background-color: transparent;
+    color: white;
+    border: double;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+.info-width{
+    margin: 0;
+    font-size: 1.1rem;
+    color: thistle;
+} 
+/*menu*/
+.Menu-title{
+    margin-top: 90px;
+    padding: 20px 0;
+    color: red;
+    font-weight: bold;
+}
+.card{
+    box-shadow: 0px 3px 63px -12px rgba(0, 0, 0, 0.75);
+	border-color: #c22323;
+	border-radius: 10%;
+}
+.btn-block {
+	font-size: 1.5rem;
+}
+#cta{
+    background-color: rgba(200, 120, 0, 0.75);
+}
+.contact-text{
+    background-color: rgb(141, 1, 1);
+    font-weight: bolder;
+    font-style: oblique;
+    padding-left: 40px;
+}
+.fa-phone{
+    padding: 0px 25px;
+    letter-spacing: 25px;
+}
+.fa-home{
+    padding: 0 20px;
+    letter-spacing: 25px;
+}
+/*footer*/
+footer {
+        background: rgba(0, 0, 0, 0.925);
+        padding: 14vmin 18vmin;
+      }
+      footer p > span {
+        color: #bb1414;
+      }
+      
+      footer input {
+        border: none !important;
+      }
+      
+      footer input::placeholder {
+        color: white !important;
+      }
+      
+      footer .input-group .input-group-text {
+        background: var(--bggradient);
+        border: none;
+      }
+      
+      footer .column i {
+        color: #bb1414;
+      }
+      
+      
